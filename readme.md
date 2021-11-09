@@ -1,3 +1,4 @@
+
 ## Hi there! 👋
  I'm Kristina, 32 years old web developer in training from Munich, Germany.
 
@@ -15,10 +16,10 @@
 
 ## My favorite quote:
 
-> _"It’s not a bug. It’s an undocumented feature!"_
+> _"It’s not a bug. It’s an undocumented feature!"_ 
 
 ## Contact
 - [Follow me on Linkedin](https://www.linkedin.com/in/kristina-von-thun-hohenstein-08277946/)
 - [Find me on Facebook](https://www.facebook.com/kristina.voitvonthunhohenstein/)
 
-![code](https://user-images.githubusercontent.com/93935781/140906211-49d5a642-ee5d-4163-9d3e-a54e4b69761e.gif)
+ <img src="https://user-images.githubusercontent.com/93935781/140906211-49d5a642-ee5d-4163-9d3e-a54e4b69761e.gif" width=50% height=50%>
