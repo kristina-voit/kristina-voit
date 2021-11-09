@@ -6,7 +6,7 @@
 - 👩🏻‍💻 HTML5, CSS3, JavaScript ES2020, React 17, styled-components, React Styleguidist, React Router
 - ⚙️ RNode.js, npm, Express, MongoDB, mongoose, Git/Github Workflow
 - 👁️ Jest, Cypress
-- 💽 Figma
+- 👾 Figma
 
 
 ## Hobbies 
@@ -22,4 +22,6 @@
 - [Follow me on Linkedin](https://www.linkedin.com/in/kristina-von-thun-hohenstein-08277946/)
 - [Find me on Facebook](https://www.facebook.com/kristina.voitvonthunhohenstein/)
 
- <img src="https://user-images.githubusercontent.com/93935781/140906211-49d5a642-ee5d-4163-9d3e-a54e4b69761e.gif" width=50% height=50%>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93935781/140906211-49d5a642-ee5d-4163-9d3e-a54e4b69761e.gif" width=50% height=50%>
+</p>
