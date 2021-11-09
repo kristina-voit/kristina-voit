@@ -1,6 +1,6 @@
 
 ## Hi there! 👋
- I'm Kristina, 32 years old web developer in training from Munich, Germany.
+ I'm Kristina, a 32 years old web developer in training from Munich, Germany.
 
 ## Skills (in the making)
 - 👩🏻‍💻 HTML5, CSS3, JavaScript ES2020, React 17, styled-components, React Styleguidist, React Router
