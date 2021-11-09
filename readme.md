@@ -1,5 +1,5 @@
 
-## Hi there! 👋
+## Hello world! 👋
  I'm Kristina, a 32 years old web developer in training from Munich, Germany.
 
 ## Skills (in the making)
@@ -11,10 +11,10 @@
 
 ## Hobbies 
 - 🌊 In my free time I love to travel and explore the world, preferably on a sailing boat or a surfboard
-- 📚 Besides that, I love reading books and listening to podcasts of all topics
+- 📚 Besides that, I love reading books and listening to podcasts of various topics
 - 💃🏻 I am a passionate dancer and love to attend balls all over the world
 
-## My favorite quote:
+## My favorite quote 
 
 > _"It’s not a bug. It’s an undocumented feature!"_ 
 
