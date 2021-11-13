@@ -1,0 +1,85 @@
+body {
+  background-color: #f4f3ee;
+  font-family: "Montserrat", sans-serif;
+  text-align: justify;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+nav {
+  padding: 0 0 15px 0;
+  text-align: center;
+}
+
+a:hover {
+  color: #463f3a;
+}
+
+#nicetomeetyou {
+  flex: 1;
+  background-color: #8a817c;
+  min-height: 40px;
+}
+
+.skills {
+  background-color: #8a817c3c;
+  text-align: center;
+  min-height: auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+}
+
+.grid > div {
+  background: #8a817c9f;
+  padding: 1em;
+}
+
+.grid > div:nth-child(odd) {
+  background: #e0afa0d0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+.cv {
+  background-color: #fff;
+}
+
+.contact {
+  background-color: #f4f3ee;
+}
+
+#contact-form {
+  flex: 1;
+  background-color: #8a817c;
+  min-height: auto;
+}
+
+.light {
+  text-align: left;
+}
