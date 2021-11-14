@@ -96,6 +96,12 @@ h2 {
   height: 100px;
 }
 
+#contact-form 
+input[type="text"], 
+input[type="email"], 
+textarea {
+  width: 200px;
+}
 .light {
   text-align: center;
   font-weight: 100;
