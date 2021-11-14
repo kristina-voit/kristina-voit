@@ -1,7 +1,7 @@
 body {
   background-color: #f4f3ee;
   font-family: "Montserrat", sans-serif;
-  text-align: justify;
+  text-align: center;
 }
 
 ul,
@@ -46,6 +46,15 @@ a:hover {
   background: #e0afa0d0;
 }
 
+@media (max-width: 400px) {
+  .grid {
+    grid-template-columns: 300px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    justify-content: center;
+  }
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -80,6 +89,15 @@ h2 {
   min-height: auto;
 }
 
+#message {
+  color: blueviolet;
+  display: table-cell;
+  vertical-align: top;
+  height: 100px;
+}
+
 .light {
-  text-align: left;
+  text-align: center;
+  font-weight: 100;
+  color: #fff;
 }
