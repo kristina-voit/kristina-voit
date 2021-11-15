@@ -90,18 +90,22 @@ h2 {
 }
 
 #message {
-  color: blueviolet;
+  color: rgb(0, 0, 0);
   display: table-cell;
   vertical-align: top;
   height: 100px;
 }
 
-#contact-form 
-input[type="text"], 
-input[type="email"], 
+#contact-form input[type="text"],
+input[type="email"],
 textarea {
   width: 200px;
 }
+
+textarea {
+  font-family: Montserrat, sans-serif;
+}
+
 .light {
   text-align: center;
   font-weight: 100;
