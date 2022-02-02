@@ -1,10 +1,10 @@
 
 ## Hello world! 👋
- I'm Kristina, a 32 years old web developer in training from Munich, Germany.
+ I'm Kristina, a 33 years old web developer in training from Munich, Germany.
 
-## Skills (in the making)
+## Skills 
 - 👩🏻‍💻 HTML5, CSS3, JavaScript ES2020, React 17, styled-components, React Styleguidist, React Router
-- ⚙️ RNode.js, npm, Express, MongoDB, mongoose, Git/Github Workflow
+- ⚙️ Node.js, npm, Express, MongoDB, mongoose, Git/Github Workflow, Bootstrap, LocalStorage
 - 👁️ Jest, Cypress
 - 👾 Figma
 
@@ -16,7 +16,7 @@
 
 ## My favorite quote 
 
-> _"It’s not a bug. It’s an undocumented feature!"_ 
+> _"If you can dream it, you can do it!"_ 
 
 ## Contact
 - [Follow me on Linkedin](https://www.linkedin.com/in/kristina-von-thun-hohenstein-08277946/)
